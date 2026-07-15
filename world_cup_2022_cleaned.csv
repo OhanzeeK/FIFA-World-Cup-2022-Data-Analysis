@@ -1,0 +1,681 @@
+player,position,club,team,minutes,minutes_90s,goals,assists,goals_per90,assists_per90,xg,xg_assist_per90,xg_per90,cards_yellow,cards_red,tackles_won,interceptions,blocked_passes,blocked_shots,clearances
+Ahmed Alaaeldin,FW,Al-Gharafa Sports Club,Qatar,6,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Hwang In-beom,MF,Olympiacos,Korea Republic,334,3.7,0,0,0.0,0.0,0.2,0.02,0.06,0,0,3,3,1,0,2
+Mathias Jensen,MF,Brentford,Denmark,84,0.9,0,0,0.0,0.0,0.1,0.38,0.11,1,0,0,0,2,0,0
+Rodri,DF,Manchester City,Spain,390,4.3,0,0,0.0,0.0,0.0,0.04,0.01,0,0,2,3,1,2,9
+Unai Simón,GK,Athletic Club,Spain,390,4.3,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,2
+Carlos Soler,MF,Paris S-G,Spain,92,1.0,1,0,0.98,0.0,0.5,0.26,0.78,0,0,0,0,0,0,0
+Héctor Herrera,MF,Houston Dynamo,Mexico,160,1.8,0,0,0.0,0.0,0.0,0.06,0.0,1,0,3,3,1,0,0
+Kim Min-jae,DF,Napoli,Korea Republic,269,3.0,0,0,0.0,0.0,0.1,0.0,0.03,0,0,1,2,4,1,8
+Rasmus Nissen,DF,Leeds United,Denmark,224,2.5,0,0,0.0,0.0,0.0,0.01,0.0,1,0,7,1,2,1,7
+Jakub Kamiński,MF,Wolfsburg,Poland,233,2.6,0,0,0.0,0.0,0.4,0.09,0.14,0,0,1,0,3,1,2
+Joško Gvardiol,DF,RB Leipzig,Croatia,690,7.7,1,0,0.13,0.0,0.1,0.01,0.02,0,0,6,11,4,4,37
+Luka Jović,FW,Fiorentina,Serbia,36,0.4,0,0,0.0,0.0,0.1,0.4,0.13,1,0,0,1,1,0,0
+Alphonso Davies,MF,Bayern Munich,Canada,270,3.0,1,0,0.33,0.0,1.1,0.17,0.36,1,0,1,3,5,0,1
+Jordan Henderson,MF,Liverpool,England,271,3.0,1,0,0.33,0.0,0.2,0.11,0.05,0,0,2,1,2,1,0
+Takehiro Tomiyasu,DF,Arsenal,Japan,187,2.1,0,0,0.0,0.0,0.0,0.11,0.0,0,0,0,0,0,2,7
+Axel Disasi,DF,Monaco,France,92,1.0,0,0,0.0,0.0,0.1,0.0,0.07,0,0,2,3,0,0,4
+Aymeric Laporte,DF,Manchester City,Spain,300,3.3,0,0,0.0,0.0,0.0,0.01,0.01,1,0,0,3,0,0,7
+Daniel Chacón,MF,CS Cartaginés,Costa Rica,1,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,1
+Matías Vecino,MF,Lazio,Uruguay,195,2.2,0,0,0.0,0.0,0.1,0.0,0.05,0,0,3,4,4,2,1
+Maxi Gómez,FW,Trabzonspor,Uruguay,30,0.3,0,0,0.0,0.0,0.1,0.0,0.26,0,0,0,0,0,0,0
+Aaron Mooy,MF,Celtic,Australia,360,4.0,0,0,0.0,0.0,0.0,0.02,0.01,1,0,6,3,2,4,9
+Salem Al-Dawsari,MF,Al-Hilal,Saudi Arabia,270,3.0,2,0,0.67,0.0,1.8,0.08,0.59,1,0,4,1,1,0,2
+Ali Al Hassan,MF,Al-Nassr,Saudi Arabia,45,0.5,0,0,0.0,0.0,0.1,0.0,0.15,1,0,1,0,1,1,1
+André Ayew,MF,Al Sadd SC,Ghana,198,2.2,1,0,0.45,0.0,1.1,0.0,0.52,1,0,1,0,1,0,3
+Edinson Cavani,FW,Valencia,Uruguay,124,1.4,0,0,0.0,0.0,0.3,0.5,0.21,1,0,0,0,0,0,0
+Jawad El Yamiq,DF,Valladolid,Morocco,309,3.4,0,0,0.0,0.0,0.1,0.0,0.03,0,0,2,5,0,6,17
+Bukayo Saka,FW,Arsenal,England,288,3.2,3,0,0.94,0.0,0.6,0.2,0.2,0,0,4,2,4,1,2
+Diego Godín,DF,Vélez Sarsf,Uruguay,151,1.7,0,0,0.0,0.0,0.1,0.0,0.03,0,0,0,1,0,0,9
+Mohamed Ali Ben Romdhane,MF,Espérance de Tunis,Tunisia,73,0.8,0,0,0.0,0.0,0.0,0.0,0.0,0,0,4,0,1,0,0
+Remo Freuler,MF,Nott'ham Forest,Switzerland,323,3.6,1,0,0.28,0.0,0.5,0.0,0.14,0,0,5,3,3,0,3
+Rónald Matarrita,DF,FC Cincinnati,Costa Rica,26,0.3,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0
+Sofiane Boufal,FW,Angers,Morocco,475,5.3,0,0,0.0,0.0,0.3,0.06,0.05,1,0,5,2,9,0,1
+Xherdan Shaqiri,FW,Chicago Fire,Switzerland,229,2.5,1,1,0.39,0.39,0.3,0.35,0.12,0,0,0,0,0,0,0
+Gregor Kobel,GK,Dortmund,Switzerland,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Matt Turner,GK,Arsenal,United States,360,4.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,1
+William Carvalho,MF,Betis,Portugal,215,2.4,0,0,0.0,0.0,0.1,0.0,0.03,0,0,5,0,2,0,3
+Dani Carvajal,DF,Real Madrid,Spain,135,1.5,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,2,0,0,1
+Pathé Ciss,MF,Rayo Vallecano,Senegal,146,1.6,0,0,0.0,0.0,0.0,0.0,0.02,1,0,3,2,0,1,4
+Romain Saïss,DF,Beşiktaş,Morocco,466,5.2,1,0,0.19,0.0,0.8,0.0,0.16,1,0,2,3,2,1,30
+Brandon Aguilera,MF,Asociación Deportiva Guanacasteca,Costa Rica,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,1,0,0
+Matías Viña,DF,Roma,Uruguay,17,0.2,0,0,0.0,0.0,0.0,0.0,0.0,0,0,3,0,0,0,0
+Saud Abdulhamid,DF,Al-Hilal,Saudi Arabia,270,3.0,0,0,0.0,0.0,0.0,0.02,0.01,1,0,2,2,3,0,6
+Abdullah Madu,DF,Al-Nassr,Saudi Arabia,45,0.5,0,0,0.0,0.0,0.0,0.0,0.0,1,0,0,0,1,2,2
+Antoine Semenyo,FW,Bristol City,Ghana,20,0.2,0,0,0.0,0.0,0.0,0.0,0.22,0,0,0,0,0,0,0
+Weston McKennie,MF,Juventus,United States,271,3.0,0,0,0.0,0.0,0.4,0.13,0.13,1,0,1,0,4,0,5
+Pape Matar Sarr,MF,Tottenham,Senegal,59,0.7,0,0,0.0,0.0,0.1,0.05,0.18,0,0,2,0,1,0,2
+Selim Amallah,MF,Standard Liège,Morocco,409,4.5,0,0,0.0,0.0,0.2,0.02,0.05,1,0,9,8,5,1,3
+Thiago Almada,MF,Atlanta Utd,Argentina,7,0.1,0,0,0.0,0.0,0.0,3.16,0.0,0,0,0,0,0,0,0
+Daley Blind,DF,Ajax,Netherlands,423,4.7,1,1,0.21,0.21,0.4,0.1,0.08,0,0,9,5,5,1,4
+Jordan Morris,FW,Seattle,United States,4,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Michy Batshuayi,FW,Fenerbahçe,Belgium,151,1.7,1,0,0.6,0.0,0.8,0.03,0.45,0,0,0,0,1,0,0
+Ali Abdi,DF,Caen,Tunisia,188,2.1,0,0,0.0,0.0,0.0,0.02,0.0,1,0,5,4,1,0,13
+Christian Nørgaard,MF,Brentford,Denmark,6,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Riyadh Sharahili,MF,Abha,Saudi Arabia,54,0.6,0,0,0.0,0.0,0.0,0.05,0.0,0,0,0,2,0,1,4
+Sebastián Coates,DF,Sporting CP,Uruguay,180,2.0,0,0,0.0,0.0,0.1,0.0,0.05,1,0,0,1,2,1,6
+Sultan Al-Ghanam,DF,Al-Nassr,Saudi Arabia,126,1.4,0,0,0.0,0.0,0.2,0.05,0.12,0,0,0,2,2,1,3
+Jeong Woo-yeong,MF,Freiburg,Korea Republic,45,0.5,0,0,0.0,0.0,0.0,0.0,0.06,0,0,0,0,0,0,1
+Lisandro Martínez,DF,Manchester Utd,Argentina,303,3.4,0,0,0.0,0.0,0.1,0.21,0.04,1,0,2,3,2,1,14
+Mathew Ryan,GK,FC Copenhagen,Australia,360,4.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,6
+Nicolas Nkoulou,DF,Aris,Cameroon,180,2.0,0,1,0.0,0.5,0.3,0.0,0.14,1,0,0,5,2,0,8
+Miki Yamane,DF,Kawa Frontale,Japan,61,0.7,0,0,0.0,0.0,0.0,0.11,0.0,1,0,0,2,2,0,0
+Tim Ream,DF,Fulham,United States,360,4.0,0,0,0.0,0.0,0.3,0.0,0.07,1,0,3,4,1,1,12
+Jung Woo-young,MF,Al Sadd SC,Korea Republic,303,3.4,0,0,0.0,0.0,0.0,0.04,0.01,2,0,4,3,2,1,7
+Nicolás De La Cruz,MF,River Plate,Uruguay,38,0.4,0,0,0.0,0.0,0.0,0.0,0.09,0,0,0,0,0,0,0
+Abdulrahman Al-Aboud,MF,Al-Ittihad,Saudi Arabia,35,0.4,0,0,0.0,0.0,0.1,0.06,0.18,0,0,3,0,0,0,0
+Krystian Bielik,MF,Derby County,Poland,216,2.4,0,0,0.0,0.0,0.2,0.0,0.07,0,0,3,5,1,0,6
+Abdessamad Ezzalzouli,FW,Osasuna,Morocco,93,1.0,0,0,0.0,0.0,0.1,0.39,0.09,0,0,2,0,3,1,3
+Alejandro Balde,DF,Barcelona,Spain,126,1.4,0,0,0.0,0.0,0.0,0.0,0.04,0,0,6,0,2,0,2
+Andrej Kramarić,FW,Hoffenheim,Croatia,474,5.3,2,0,0.38,0.0,1.6,0.04,0.31,0,0,2,0,6,0,0
+Héctor Moreno,DF,Monterrey,Mexico,270,3.0,0,0,0.0,0.0,0.2,0.01,0.06,1,0,1,1,1,1,4
+Kai Havertz,FW,Chelsea,Germany,102,1.1,2,0,1.76,0.0,1.4,0.17,1.19,0,0,1,1,0,0,0
+Leroy Sané,FW,Bayern Munich,Germany,111,1.2,0,1,0.0,0.81,0.1,1.44,0.09,0,0,1,0,2,0,1
+Matthijs de Ligt,DF,Bayern Munich,Netherlands,91,1.0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,0,0,0,0,4
+Artur Jędrzejczyk,DF,Legia Warsaw,Poland,19,0.2,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,1
+Fran Karačić,DF,Brescia,Australia,93,1.0,0,0,0.0,0.0,0.2,0.09,0.17,0,0,1,2,1,1,3
+Jhegson Méndez,MF,Los Angeles FC,Ecuador,180,2.0,0,0,0.0,0.0,0.0,0.07,0.0,2,0,2,1,4,0,1
+Lawrence Ati-Zigi,GK,St. Gallen,Ghana,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Marco Asensio,FW,Real Madrid,Spain,229,2.5,1,0,0.39,0.0,1.2,0.02,0.48,0,0,1,0,1,0,0
+Marcos Acuña,DF,Sevilla,Argentina,373,4.1,0,0,0.0,0.0,0.1,0.07,0.02,3,0,8,2,7,1,9
+Phil Foden,FW,Manchester City,England,258,2.9,1,2,0.35,0.7,1.1,0.2,0.38,0,0,1,1,2,0,0
+Ahmad Nourollahi,MF,Al-Ahli Dubai FC,IR Iran,223,2.5,0,0,0.0,0.0,0.1,0.0,0.04,0,0,3,6,3,0,8
+Ben Davies,DF,Tottenham,Wales,238,2.6,0,0,0.0,0.0,0.3,0.0,0.13,0,0,2,1,2,2,8
+Karim Ansarifard,FW,AC Omonia,IR Iran,35,0.4,0,0,0.0,0.0,0.1,0.2,0.17,0,0,0,1,1,0,0
+Kellyn Acosta,MF,Los Angeles FC,United States,43,0.5,0,0,0.0,0.0,0.0,0.0,0.0,1,0,2,0,0,0,0
+Ritsu Doan,FW,Freiburg,Japan,217,2.4,2,0,0.83,0.0,0.5,0.07,0.21,0,0,5,3,3,1,2
+Romario Ibarra,MF,Pachuca,Ecuador,68,0.8,0,0,0.0,0.0,0.1,0.0,0.19,0,0,0,1,1,0,2
+Keysher Fuller,DF,Club Sport Herediano,Costa Rica,253,2.8,1,0,0.36,0.0,0.4,0.05,0.14,0,0,4,3,2,0,9
+Kylian Mbappé,FW,Paris S-G,France,598,6.6,8,2,1.2,0.3,5.2,0.21,0.82,0,0,0,0,0,0,0
+Shaquell Moore,DF,Nashville,United States,22,0.2,0,0,0.0,0.0,0.0,0.0,0.0,0,0,2,0,0,0,3
+Gonçalo Ramos,FW,Benfica,Portugal,152,1.7,3,1,1.78,0.59,1.6,0.21,0.93,0,0,1,0,0,0,2
+Kamal Miller,DF,CF Montréal,Canada,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,4,4,0,1,11
+Nikola Vlašić,FW,Torino,Croatia,209,2.3,0,0,0.0,0.0,0.4,0.0,0.25,0,0,1,1,2,0,0
+Walid Cheddira,FW,Bari,Morocco,64,0.7,0,0,0.0,0.0,0.5,0.0,1.24,2,1,0,0,0,0,2
+Mathew Leckie,MF,Melb City,Australia,333,3.7,1,1,0.27,0.27,0.1,0.08,0.04,0,0,4,1,5,0,6
+Nampalys Mendy,MF,Leicester City,Senegal,272,3.0,0,0,0.0,0.0,0.1,0.01,0.02,1,0,4,3,4,0,3
+Raphinha,FW,Barcelona,Brazil,315,3.5,0,1,0.0,0.29,1.2,0.38,0.35,0,0,6,3,3,0,0
+Saad Al Sheeb,GK,Al Sadd SC,Qatar,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,0,0,0,0,0
+Alireza Jahanbakhsh,MF,Feyenoord,IR Iran,59,0.7,0,0,0.0,0.0,0.2,0.0,0.29,2,0,1,1,2,0,0
+Charly Rodríguez,MF,Cruz Azul,Mexico,34,0.4,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,2,0,0
+Cyle Larin,FW,Club Brugge,Canada,137,1.5,0,0,0.0,0.0,0.2,0.34,0.16,0,0,0,0,0,0,2
+Saman Ghoddos,MF,Brentford,IR Iran,45,0.5,0,0,0.0,0.0,0.2,0.05,0.36,0,0,0,0,0,0,0
+Rodrygo,MF,Real Madrid,Brazil,181,2.0,0,1,0.0,0.5,0.4,0.25,0.26,0,0,1,2,5,1,1
+Dani Alves,DF,UNAM,Brazil,118,1.3,0,0,0.0,0.0,0.2,0.0,0.14,0,0,4,2,0,1,2
+Jorge Eduardo Sánchez,DF,Ajax,Mexico,175,1.9,0,0,0.0,0.0,0.0,0.0,0.01,1,0,0,3,2,0,8
+Carlos Gruezo,MF,Augsburg,Ecuador,45,0.5,0,0,0.0,0.0,0.0,0.0,0.0,0,0,2,0,0,0,0
+Ivan Perišić,FW,Tottenham,Croatia,669,7.4,1,3,0.13,0.4,0.9,0.12,0.13,0,0,4,7,8,1,12
+Jason Cummings,FW,Central Coast,Australia,35,0.4,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Keanu Baccus,MF,St Mirren,Australia,114,1.3,0,0,0.0,0.0,0.0,0.0,0.04,0,0,1,2,5,0,1
+Steven Bergwijn,FW,Ajax,Netherlands,213,2.4,0,0,0.0,0.0,0.5,0.0,0.21,1,0,1,0,2,0,0
+Jordan Pickford,GK,Everton,England,450,5.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,2
+Kristijan Jakić,FW,Eint Frankfurt,Croatia,1,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Mohamed Kanno,MF,Al-Hilal,Saudi Arabia,270,3.0,0,0,0.0,0.0,0.3,0.0,0.1,0,0,2,2,2,1,7
+César Azpilicueta,DF,Chelsea,Spain,135,1.5,0,1,0.0,0.67,0.0,0.45,0.0,0,0,0,1,2,0,0
+Harry Kane,FW,Tottenham,England,402,4.5,2,3,0.45,0.67,2.7,0.34,0.6,0,0,1,0,1,1,5
+João Palhinha,MF,Fulham,Portugal,38,0.4,0,0,0.0,0.0,0.0,0.3,0.06,0,0,1,1,1,0,1
+Matty Cash,DF,Aston Villa,Poland,360,4.0,0,0,0.0,0.0,0.0,0.04,0.01,2,0,3,0,5,2,17
+Romelu Lukaku,FW,Inter,Belgium,55,0.6,0,0,0.0,0.0,1.7,0.06,2.84,0,0,0,0,0,0,1
+Saeid Ezatolahi,MF,Vejle BK,IR Iran,217,2.4,0,0,0.0,0.0,0.1,0.08,0.04,0,0,1,2,3,0,4
+Granit Xhaka,MF,Arsenal,Switzerland,360,4.0,0,0,0.0,0.0,0.3,0.02,0.08,1,0,4,2,1,2,7
+Mislav Oršić,FW,Dinamo Zagreb,Croatia,162,1.8,1,2,0.56,1.11,0.4,0.68,0.23,0,0,3,0,2,0,1
+Mohammed Salisu,DF,Southampton,Ghana,270,3.0,1,0,0.33,0.0,0.8,0.08,0.26,0,0,1,3,1,4,17
+Nicolás Otamendi,DF,Benfica,Argentina,690,7.7,0,1,0.0,0.13,0.0,0.02,0.0,2,0,6,9,4,2,24
+Wojciech Szczęsny,GK,Juventus,Poland,360,4.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,4
+Alexander Djiku,DF,Strasbourg,Ghana,97,1.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,2,0,0,9
+Danny Ward,GK,Leicester City,Wales,94,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Davy Klaassen,MF,Ajax,Netherlands,190,2.1,1,2,0.47,0.95,0.2,0.14,0.11,0,0,2,1,2,0,2
+Luka Modrić,MF,Real Madrid,Croatia,653,7.3,0,0,0.0,0.0,0.4,0.11,0.06,1,0,10,10,2,2,3
+Denis Odoi,DF,Club Brugge,Ghana,13,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,2,2
+Hannibal Mejbri,MF,Birmingham City,Tunisia,11,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0
+Koke,MF,Atlético Madrid,Spain,52,0.6,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,0,0,0
+Rodrigo De Paul,MF,Atlético Madrid,Argentina,599,6.7,0,0,0.0,0.0,0.9,0.05,0.13,0,0,6,7,8,0,3
+Vanja Milinković-Savić,GK,Torino,Serbia,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,0,0,2
+Abderrazak Hamdallah,FW,Al-Ittihad,Morocco,68,0.8,0,0,0.0,0.0,0.4,0.0,0.52,0,0,0,0,0,0,2
+Akram Afif,FW,Al Sadd SC,Qatar,270,3.0,0,0,0.0,0.0,0.0,0.1,0.02,1,0,0,0,0,0,0
+Andreas Skov Olsen,FW,Club Brugge,Denmark,132,1.5,0,0,0.0,0.0,0.2,0.0,0.16,0,0,0,1,2,1,0
+Kwon Kyung-won,DF,Gamba Osaka,Korea Republic,91,1.0,0,0,0.0,0.0,0.0,0.0,0.02,0,0,0,2,0,1,5
+Yahya Attiat Allah,DF,Wydad Casablanca,Morocco,318,3.5,0,1,0.0,0.28,0.2,0.37,0.07,0,0,2,0,4,0,15
+Enzo Fernández,MF,Benfica,Argentina,564,6.3,1,1,0.16,0.16,0.3,0.16,0.05,1,0,15,3,6,1,7
+Ismaël Koné,MF,CF Montréal,Canada,109,1.2,0,0,0.0,0.0,0.0,0.05,0.0,0,0,0,0,0,0,0
+Casemiro,MF,Manchester Utd,Brazil,390,4.3,1,0,0.23,0.0,0.4,0.04,0.1,1,0,4,7,11,2,5
+Jackson Porozo,DF,Troyes,Ecuador,96,1.1,0,0,0.0,0.0,0.1,0.0,0.05,0,0,2,3,1,0,4
+Jamie Maclaren,FW,Melb City,Australia,55,0.6,0,0,0.0,0.0,0.0,0.08,0.0,0,0,0,1,0,0,0
+Srđan Babić,DF,Almería,Serbia,13,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,1
+Óscar Duarte,DF,Al-Wehda,Costa Rica,270,3.0,0,0,0.0,0.0,0.0,0.09,0.0,1,0,2,6,2,1,15
+Félix Torres Caicedo,DF,Santos,Ecuador,270,3.0,0,1,0.0,0.33,0.1,0.15,0.04,0,0,2,4,1,2,10
+Ismaila Sarr,FW,Watford,Senegal,344,3.8,1,0,0.26,0.0,1.7,0.11,0.43,0,0,2,2,2,0,1
+Luke Shaw,DF,Manchester Utd,England,424,4.7,0,1,0.0,0.21,0.1,0.17,0.02,0,0,1,4,2,0,5
+Christian Pulisic,FW,Chelsea,United States,315,3.5,1,2,0.29,0.57,1.1,0.26,0.3,0,0,0,0,2,0,1
+Nicola Zalewski,MF,Roma,Poland,65,0.7,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0
+Amadou Onana,MF,Everton,Belgium,104,1.2,0,0,0.0,0.0,0.5,0.0,0.4,2,0,1,0,1,0,0
+Josip Juranović,DF,Celtic,Croatia,600,6.7,0,1,0.0,0.15,0.0,0.05,0.01,0,0,8,3,2,3,15
+Naïm Sliti,MF,Al-Ettifaq,Tunisia,114,1.3,0,0,0.0,0.0,0.1,0.1,0.11,0,0,1,0,0,0,1
+Rogelio Funes Mori,FW,Monterrey,Mexico,5,0.1,0,0,0.0,0.0,0.1,0.0,1.23,0,0,0,0,0,0,0
+Antonee Robinson,DF,Fulham,United States,359,4.0,0,0,0.0,0.0,0.0,0.07,0.0,0,0,4,7,3,0,8
+Carlos Martínez,DF,AD San Carlos,Costa Rica,45,0.5,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,1,1,0,1
+Cho Guesung,FW,Jeonbuk,Korea Republic,275,3.1,2,0,0.65,0.0,1.1,0.01,0.35,1,0,0,0,3,0,3
+Mario Götze,MF,Eint Frankfurt,Germany,36,0.4,0,0,0.0,0.0,0.1,0.29,0.21,0,0,0,0,2,0,0
+Jeremy Doku,MF,Rennes,Belgium,19,0.2,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Vincent Janssen,FW,Antwerp,Netherlands,86,1.0,0,0,0.0,0.0,0.1,0.04,0.09,0,0,0,0,2,0,1
+Abdulelah Al-Amri,DF,Al-Nassr,Saudi Arabia,182,2.0,0,0,0.0,0.0,0.1,0.0,0.03,2,0,0,4,1,1,10
+Adrien Rabiot,MF,Juventus,France,483,5.4,1,1,0.19,0.19,1.1,0.16,0.2,1,0,9,10,9,2,6
+Ferjani Sassi,MF,Al Duhail SC,Tunisia,48,0.5,0,0,0.0,0.0,0.0,0.0,0.04,1,0,0,1,1,0,0
+Fred,MF,Manchester Utd,Brazil,142,1.6,0,0,0.0,0.0,0.3,0.16,0.23,1,0,3,0,0,1,3
+Luis Chávez,MF,Pachuca,Mexico,270,3.0,1,0,0.33,0.0,0.3,0.15,0.1,0,0,0,1,6,0,3
+Przemysław Frankowski,MF,Lens,Poland,240,2.7,0,0,0.0,0.0,0.0,0.09,0.01,1,0,4,3,0,1,5
+Alex Sandro,DF,Juventus,Brazil,190,2.1,0,0,0.0,0.0,0.0,0.04,0.01,0,0,3,3,1,0,9
+Diogo Costa,GK,Porto,Portugal,450,5.0,0,0,0.0,0.0,0.0,0.01,0.0,0,0,0,0,0,0,4
+Gonzalo Montiel,DF,Sevilla,Argentina,118,1.3,0,0,0.0,0.0,0.0,0.42,0.02,3,0,2,1,1,0,1
+Bartosz Bereszyński,DF,Sampdoria,Poland,341,3.8,0,0,0.0,0.0,0.0,0.0,0.0,1,0,2,2,3,1,17
+Christopher Wooh,DF,Rennes,Cameroon,90,1.0,0,0,0.0,0.0,0.0,0.0,0.04,0,0,0,1,1,2,6
+Saša Lukić,MF,Torino,Serbia,245,2.7,0,0,0.0,0.0,0.1,0.0,0.02,2,0,0,1,2,0,5
+Sofyan Amrabat,MF,Fiorentina,Morocco,660,7.3,0,0,0.0,0.0,0.0,0.01,0.0,1,0,10,6,1,1,10
+Atiba Hutchinson,MF,Beşiktaş,Canada,159,1.8,0,0,0.0,0.0,0.1,0.0,0.07,0,0,1,1,3,0,3
+Borna Sosa,DF,Stuttgart,Croatia,424,4.7,0,0,0.0,0.0,0.1,0.08,0.01,0,0,6,2,4,0,18
+Erick Gutiérrez,MF,PSV Eindhoven,Mexico,49,0.5,0,0,0.0,0.0,0.0,0.0,0.0,1,0,1,2,0,0,1
+Marcos Llorente,DF,Atlético Madrid,Spain,120,1.3,0,0,0.0,0.0,0.0,0.0,0.02,0,0,0,0,0,0,0
+Chris Mepham,DF,Bournemouth,Wales,270,3.0,0,0,0.0,0.0,0.0,0.07,0.0,1,0,6,1,1,2,16
+Néstor Araujo,DF,América,Mexico,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,1,3,0,0,1
+César Montes,DF,Monterrey,Mexico,270,3.0,0,1,0.0,0.33,0.2,0.17,0.06,0,0,3,2,0,0,11
+Karim Boudiaf,MF,Al Duhail SC,Qatar,185,2.1,0,0,0.0,0.0,0.0,0.0,0.0,1,0,1,0,0,0,3
+Mark-Anthony Kaye,MF,Toronto FC,Canada,59,0.7,0,0,0.0,0.0,0.0,0.0,0.06,0,0,1,0,0,0,0
+Raphaël Varane,DF,Manchester Utd,France,518,5.8,0,0,0.0,0.0,0.3,0.0,0.06,0,0,0,6,1,3,15
+Youssef En-Nesyri,FW,Sevilla,Morocco,542,6.0,2,0,0.33,0.0,1.2,0.01,0.21,0,0,2,1,5,0,11
+Abdelkarim Hassan,DF,Al Sadd SC,Qatar,270,3.0,0,0,0.0,0.0,0.3,0.01,0.1,0,0,3,1,2,1,5
+Achraf Dari,DF,Brest,Morocco,187,2.1,1,0,0.48,0.0,0.6,0.0,0.3,1,0,0,5,3,4,9
+Moumi Ngamaleu,FW,Dynamo Mosc,Cameroon,95,1.1,0,0,0.0,0.0,0.0,0.15,0.0,0,0,1,0,0,0,0
+Alisson,GK,Liverpool,Brazil,379,4.2,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,2
+Harry Souttar,DF,Stoke City,Australia,360,4.0,0,0,0.0,0.0,0.1,0.01,0.02,0,0,0,6,3,4,22
+João Félix,FW,Atlético Madrid,Portugal,331,3.7,1,2,0.27,0.54,0.9,0.1,0.24,1,0,2,1,0,0,1
+Sergej Milinković-Savić,MF,Lazio,Serbia,233,2.6,1,0,0.39,0.0,0.2,0.0,0.07,1,0,1,2,3,2,5
+Bernardo Silva,MF,Manchester City,Portugal,356,4.0,0,0,0.0,0.0,0.2,0.09,0.04,0,0,2,2,3,0,0
+Enner Valencia,FW,Fenerbahçe,Ecuador,255,2.8,3,0,1.06,0.0,2.3,0.1,0.8,0,0,0,1,3,0,2
+Ismail Jakobs,DF,Monaco,Senegal,278,3.1,0,1,0.0,0.32,0.0,0.1,0.0,1,0,0,4,3,0,14
+Krépin Diatta,FW,Monaco,Senegal,181,2.0,0,0,0.0,0.0,0.1,0.09,0.06,0,0,0,0,1,0,0
+Pervis Estupiñán,DF,Brighton,Ecuador,270,3.0,0,0,0.0,0.0,0.1,0.09,0.02,0,0,3,3,3,1,6
+Riley McGree,FW,Middlesbrough,Australia,265,2.9,0,1,0.0,0.34,0.1,0.22,0.05,0,0,1,5,5,0,3
+Bilal El Khannous,MF,Genk,Morocco,55,0.6,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0,2
+Iñaki Williams,FW,Athletic Club,Ghana,270,3.0,0,0,0.0,0.0,0.3,0.07,0.1,0,0,2,0,3,0,2
+Jesús Ferreira,FW,FC Dallas,United States,45,0.5,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Robert Lewandowski,FW,Barcelona,Poland,360,4.0,2,1,0.5,0.25,2.9,0.1,0.73,0,0,2,1,2,1,8
+Benjamin Pavard,DF,Bayern Munich,France,88,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,3,0,0
+Borna Barišić,DF,Rangers,Croatia,120,1.3,0,0,0.0,0.0,0.0,0.12,0.02,1,0,1,0,1,0,4
+Kasper Dolberg,FW,Sevilla,Denmark,114,1.3,0,0,0.0,0.0,0.4,0.05,0.31,0,0,1,0,0,0,1
+Manuel Akanji,DF,Manchester City,Switzerland,360,4.0,1,0,0.25,0.0,1.1,0.03,0.28,1,0,2,3,1,3,12
+Nathan Aké,DF,Manchester City,Netherlands,479,5.3,0,0,0.0,0.0,0.0,0.0,0.0,1,0,3,8,1,2,20
+Pierre Kunde,MF,Olympiacos,Cameroon,131,1.5,0,0,0.0,0.0,0.2,0.05,0.15,1,0,2,4,0,0,4
+Thomas Meunier,DF,Dortmund,Belgium,211,2.3,0,0,0.0,0.0,0.2,0.21,0.09,1,0,6,2,1,0,5
+Aimen Dahmen,GK,CS Sfaxien,Tunisia,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,2
+Aziz Behich,DF,Dundee United,Australia,360,4.0,0,0,0.0,0.0,0.1,0.0,0.03,1,0,3,3,4,2,12
+Ghaylène Chaalali,MF,Espérance de Tunis,Tunisia,17,0.2,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,2,1,0,1
+Declan Rice,MF,West Ham,England,417,4.6,0,0,0.0,0.0,0.0,0.01,0.0,0,0,5,11,1,3,5
+Gideon Mensah,DF,Auxerre,Ghana,87,1.0,0,1,0.0,1.03,0.0,0.28,0.0,0,0,1,2,0,1,5
+Jan Vertonghen,DF,Anderlecht,Belgium,270,3.0,0,0,0.0,0.0,0.2,0.0,0.06,0,0,0,5,0,2,12
+Wahbi Khazri,FW,Montpellier,Tunisia,83,0.9,1,0,1.08,0.0,0.4,0.0,0.47,0,0,0,0,0,0,0
+Charles De Ketelaere,FW,Milan,Belgium,16,0.2,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Matheus Nunes,MF,Wolves,Portugal,73,0.8,0,0,0.0,0.0,0.0,0.12,0.03,0,0,0,0,1,0,0
+Yuki Soma,FW,Grampus,Japan,81,0.9,0,0,0.0,0.0,0.2,0.0,0.21,0,0,0,0,0,0,0
+Sam Adekugbe,DF,Hatayspor,Canada,95,1.1,0,0,0.0,0.0,0.0,0.09,0.0,1,0,0,1,1,0,1
+Serge Gnabry,FW,Bayern Munich,Germany,263,2.9,1,1,0.34,0.34,1.1,0.51,0.37,0,0,2,2,2,0,3
+Aaron Ramsey,MF,Nice,Wales,266,3.0,0,0,0.0,0.0,0.0,0.01,0.01,1,0,0,0,3,1,2
+Hassan Al Tambakti,DF,Al-Shabab,Saudi Arabia,180,2.0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,2,3,1,2,6
+Jean-Charles Castelletto,DF,Nantes,Cameroon,180,2.0,1,1,0.5,0.5,0.9,0.15,0.47,0,0,3,6,1,1,12
+Kalidou Koulibaly,DF,Chelsea,Senegal,360,4.0,1,0,0.25,0.0,0.5,0.01,0.12,1,0,9,2,3,1,30
+Ramin Rezaeian,DF,Sepahan,IR Iran,180,2.0,1,0,0.5,0.0,0.3,0.14,0.13,1,0,5,3,1,0,2
+Yassine Bounou,GK,Sevilla,Morocco,570,6.3,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,5
+Ajdin Hrustic,MF,Hellas Verona,Australia,62,0.7,0,0,0.0,0.0,0.0,0.0,0.04,0,0,0,1,0,0,1
+Ali Gholizadeh,MF,Charleroi,IR Iran,199,2.2,0,1,0.0,0.45,0.0,0.07,0.01,0,0,0,3,5,0,2
+Pepe,DF,Porto,Portugal,360,4.0,1,0,0.25,0.0,0.4,0.0,0.11,0,0,0,6,2,4,11
+Walker Zimmerman,DF,Nashville,United States,279,3.1,0,0,0.0,0.0,0.1,0.0,0.02,0,0,2,4,1,3,15
+Daniel James,FW,Fulham,Wales,154,1.7,0,0,0.0,0.0,0.0,0.02,0.0,1,0,1,0,2,0,1
+Neco Williams,DF,Nott'ham Forest,Wales,204,2.3,0,0,0.0,0.0,0.1,0.03,0.04,0,0,3,4,4,1,5
+Ayase Ueda,FW,Cercle Brugge,Japan,45,0.5,0,0,0.0,0.0,0.0,0.02,0.0,0,0,0,0,0,1,2
+Jan Bednarek,DF,Aston Villa,Poland,5,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Assim Madibo,MF,Al Duhail SC,Qatar,153,1.7,0,0,0.0,0.0,0.0,0.02,0.0,1,0,3,2,5,1,0
+Christian Fassnacht,FW,Young Boys,Switzerland,8,0.1,0,0,0.0,0.0,0.2,0.0,2.58,0,0,0,0,0,0,1
+Emiliano Martínez,GK,Aston Villa,Argentina,690,7.7,0,0,0.0,0.0,0.0,0.0,0.0,1,0,0,0,0,0,3
+Lovro Majer,MF,Rennes,Croatia,130,1.4,1,0,0.69,0.0,0.7,0.07,0.67,0,0,1,0,1,0,2
+Mohammed Al-Breik,DF,Al-Hilal,Saudi Arabia,65,0.7,0,0,0.0,0.0,0.4,0.07,0.51,0,0,0,1,2,0,4
+António Silva,DF,Benfica,Portugal,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,1,1,1,1
+Lucas Cavallini,FW,Vancouver,Canada,19,0.2,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Martin Hongla,MF,Hellas Verona,Cameroon,121,1.3,0,0,0.0,0.0,0.1,0.05,0.04,0,0,0,2,1,1,3
+Mitchell Duke,FW,Fagi Okayama,Australia,270,3.0,1,0,0.33,0.0,0.4,0.01,0.12,1,0,0,2,5,0,1
+Rodrigo Bentancur,MF,Tottenham,Uruguay,213,2.4,0,0,0.0,0.0,0.6,0.06,0.26,1,0,8,7,3,0,5
+Enzo Ebosse,DF,Udinese,Cameroon,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,2,0,1,0,5
+Iliman Ndiaye,FW,Sheffield Utd,Senegal,135,1.5,0,1,0.0,0.67,0.1,0.14,0.09,0,0,0,1,2,0,0
+Joshua Kimmich,MF,Bayern Munich,Germany,270,3.0,0,0,0.0,0.0,0.4,0.37,0.12,1,0,2,3,5,1,1
+Lucas Paquetá,MF,West Ham,Brazil,314,3.5,1,1,0.29,0.29,0.8,0.43,0.24,0,0,5,2,4,1,4
+Tariq Lamptey,DF,Brighton,Ghana,102,1.1,0,0,0.0,0.0,0.1,0.0,0.06,1,0,1,1,0,1,4
+Wéverton,GK,Palmeiras,Brazil,11,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Hattan Bahebri,MF,Al-Shabab,Saudi Arabia,4,0.0,0,1,0.0,22.5,0.0,14.37,0.0,1,0,0,0,0,0,0
+Ivan Ilić,MF,Hellas Verona,Serbia,34,0.4,0,0,0.0,0.0,0.0,0.04,0.0,0,0,0,1,0,0,0
+Jonathan David,FW,Lille,Canada,192,2.1,0,0,0.0,0.0,1.0,0.0,0.49,0,0,1,0,0,0,0
+Na Sang-ho,FW,FC Seoul,Korea Republic,119,1.3,0,0,0.0,0.0,0.0,0.09,0.03,0,0,1,0,0,0,2
+Thomas Müller,FW,Bayern Munich,Germany,201,2.2,0,0,0.0,0.0,0.3,0.28,0.14,0,0,2,1,4,0,0
+Celso Borges,MF,Liga Deportiva Alajuelense,Costa Rica,249,2.8,0,0,0.0,0.0,0.0,0.02,0.0,1,0,1,4,5,3,7
+Grzegorz Krychowiak,MF,Al-Shabab,Poland,332,3.7,0,0,0.0,0.0,0.0,0.05,0.01,1,0,4,5,2,3,4
+Álvaro Morata,FW,Atlético Madrid,Spain,185,2.1,3,1,1.46,0.49,1.4,0.14,0.79,0,0,1,0,1,1,2
+Connor Roberts,DF,Burnley,Wales,200,2.2,0,0,0.0,0.0,0.0,0.16,0.0,0,0,3,1,0,2,7
+Leon Goretzka,MF,Bayern Munich,Germany,159,1.8,0,0,0.0,0.0,0.5,0.01,0.26,1,0,3,1,1,0,0
+Lucas Hernández,DF,Bayern Munich,France,12,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,0,0,0
+Memphis,FW,Barcelona,Netherlands,297,3.3,1,0,0.3,0.0,1.5,0.16,0.44,1,0,1,1,4,0,0
+Nicolas Jackson,FW,Villarreal,Senegal,17,0.2,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Kamil Grosicki,MF,Pogoń Szczecin,Poland,4,0.0,0,0,0.0,0.0,0.0,1.69,0.0,0,0,0,0,0,0,0
+Lautaro Martínez,FW,Inter,Argentina,241,2.7,0,0,0.0,0.0,1.8,0.02,0.86,0,0,0,1,0,1,0
+Darko Lazović,DF,Hellas Verona,Serbia,25,0.3,0,0,0.0,0.0,0.0,0.0,0.05,0,0,0,0,0,0,0
+Ederson,GK,Manchester City,Brazil,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Jesús Gallardo,DF,Monterrey,Mexico,270,3.0,0,0,0.0,0.0,0.1,0.01,0.04,0,0,5,1,4,1,10
+Jordi Alba,DF,Barcelona,Spain,264,2.9,0,2,0.0,0.68,0.0,0.31,0.01,0,0,4,3,2,0,2
+Ko Itakura,DF,M'Gladbach,Japan,270,3.0,0,1,0.0,0.33,0.2,0.03,0.05,2,0,5,4,1,0,16
+Leandro Paredes,MF,Juventus,Argentina,225,2.5,0,0,0.0,0.0,0.0,0.02,0.01,2,0,4,3,0,0,4
+Timothy Weah,FW,Lille,United States,316,3.5,1,0,0.28,0.0,0.6,0.12,0.18,0,0,0,0,5,0,0
+Yunus Musah,MF,Valencia,United States,343,3.8,0,0,0.0,0.0,0.3,0.02,0.08,0,0,6,2,7,0,1
+Ansu Fati,FW,Barcelona,Spain,46,0.5,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,0,0,0
+Takefusa Kubo,FW,Real Sociedad,Japan,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,3,0,0
+Toby Alderweireld,DF,Antwerp,Belgium,270,3.0,0,1,0.0,0.33,0.0,0.11,0.0,0,0,2,0,2,1,19
+Gavi,MF,Barcelona,Spain,284,3.2,1,0,0.32,0.0,0.1,0.03,0.04,0,0,4,1,3,0,2
+Joe Allen,MF,Swansea City,Wales,94,1.0,0,0,0.0,0.0,0.1,0.05,0.1,0,0,1,1,1,0,4
+John Stones,DF,Manchester City,England,434,4.8,0,0,0.0,0.0,0.4,0.01,0.07,0,0,2,1,0,3,8
+Ró-Ró,DF,Al Sadd SC,Qatar,262,2.9,0,0,0.0,0.0,0.1,0.0,0.02,0,0,4,8,2,0,3
+Andrija Živković,DF,PAOK,Serbia,210,2.3,0,2,0.0,0.86,0.1,0.48,0.03,0,0,3,3,5,0,3
+Bassam Al-Rawi,DF,Al Duhail SC,Qatar,90,1.0,0,0,0.0,0.0,0.0,0.03,0.0,0,0,0,0,0,0,7
+Harry Maguire,DF,Manchester Utd,England,429,4.8,0,1,0.0,0.21,0.4,0.01,0.08,1,0,3,4,1,3,18
+Mattéo Guendouzi,FW,Marseille,France,78,0.9,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,0,0,0
+Michael Estrada,FW,Cruz Azul,Ecuador,225,2.5,0,0,0.0,0.0,0.3,0.01,0.13,0,0,0,0,3,1,0
+Idrissa Gana Gueye,MF,Everton,Senegal,270,3.0,0,0,0.0,0.0,0.3,0.03,0.11,2,0,1,5,3,0,3
+Miloš Degenek,DF,Columbus Crew,Australia,183,2.0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,4,1,1,1,9
+Krzysztof Piątek,FW,Salernitana,Poland,28,0.3,0,0,0.0,0.0,0.0,0.0,0.09,0,0,0,0,0,0,0
+Sergiño Dest,DF,Milan,United States,305,3.4,0,1,0.0,0.3,0.2,0.15,0.07,1,0,2,2,3,0,7
+Breel Embolo,FW,Monaco,Switzerland,323,3.6,2,0,0.56,0.0,2.3,0.03,0.64,0,0,0,0,2,0,1
+Dayot Upamecano,DF,Bayern Munich,France,480,5.3,0,0,0.0,0.0,0.0,0.02,0.01,0,0,7,6,1,4,13
+Edimilson Fernandes,FW,Mainz 05,Switzerland,145,1.6,0,0,0.0,0.0,0.0,0.21,0.02,0,0,1,2,3,0,3
+Olivier Giroud,FW,Milan,France,419,4.7,4,0,0.86,0.0,3.4,0.03,0.72,1,0,0,1,1,0,5
+Raúl Jiménez,FW,Wolves,Mexico,59,0.7,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,0,0,1
+Maya Yoshida,DF,Schalke 04,Japan,390,4.3,0,1,0.0,0.23,0.0,0.09,0.0,1,0,4,3,3,3,24
+Nemanja Gudelj,MF,Sevilla,Serbia,92,1.0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,2,2,2,0,1
+Ethan Ampadu,MF,Spezia,Wales,255,2.8,0,0,0.0,0.0,0.0,0.04,0.01,0,0,3,4,5,4,10
+Frenkie de Jong,MF,Barcelona,Netherlands,475,5.3,1,1,0.19,0.19,0.9,0.04,0.18,1,0,5,6,3,3,3
+Awer Mabil,MF,Cádiz,Australia,24,0.3,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,1,0,0
+Bruno Guimarães,MF,Newcastle Utd,Brazil,69,0.8,0,0,0.0,0.0,0.7,0.0,0.92,1,0,0,0,1,0,0
+Cho Yumin,FW,Daejeon Citizen FC,Korea Republic,1,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Badr Banoun,DF,Qatar SC,Morocco,54,0.6,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,1,0,3
+Brennan Johnson,FW,Nott'ham Forest,Wales,91,1.0,0,0,0.0,0.0,0.2,0.0,0.21,0,0,0,0,1,0,1
+Nemanja Radonjić,DF,Torino,Serbia,60,0.7,0,0,0.0,0.0,0.1,0.05,0.15,0,0,0,0,0,0,1
+Nico Schlotterbeck,DF,Dortmund,Germany,94,1.0,0,0,0.0,0.0,0.0,0.07,0.0,0,0,3,1,1,1,1
+Vitinha,MF,Paris S-G,Portugal,120,1.3,0,0,0.0,0.0,0.1,0.03,0.05,1,0,2,1,0,0,1
+Abdul Fatawu Issahaku,FW,Sporting CP,Ghana,1,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Alex Telles,DF,Sevilla,Brazil,59,0.7,0,0,0.0,0.0,0.0,0.0,0.0,0,0,2,0,0,0,1
+Alidu Seidu,DF,Clermont Foot,Ghana,155,1.7,0,0,0.0,0.0,0.0,0.0,0.01,2,0,4,0,5,0,3
+Ellyes Skhiri,MF,Köln,Tunisia,270,3.0,0,0,0.0,0.0,0.1,0.05,0.02,0,0,3,7,2,0,3
+Dominik Livaković,GK,Dinamo Zagreb,Croatia,690,7.7,0,0,0.0,0.0,0.0,0.0,0.0,1,0,0,0,0,0,0
+Kingsley Coman,FW,Bayern Munich,France,169,1.9,0,0,0.0,0.0,0.2,0.05,0.1,0,0,2,2,3,0,1
+Pau Torres,DF,Villarreal,Spain,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,1,2
+Ali Karimi,MF,Kayserispor,IR Iran,99,1.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,3,3,0,0,1
+Djorkaeff Reasco,FW,Newell's OB,Ecuador,27,0.3,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Garang Kuol,FW,Central Coast,Australia,37,0.4,0,0,0.0,0.0,0.4,0.0,0.92,0,0,0,1,0,0,0
+Jerome Ngom Mbekeli,MF,Colombe Sportive du Dja et Lobo,Cameroon,5,0.1,0,0,0.0,0.0,0.0,2.23,0.0,0,0,0,0,0,0,1
+Kendall Waston,DF,Deportivo Saprissa,Costa Rica,225,2.5,0,0,0.0,0.0,0.2,0.0,0.06,0,0,4,5,1,1,14
+Neymar,MF,Paris S-G,Brazil,279,3.1,2,0,0.65,0.0,2.7,0.29,0.98,0,0,0,1,2,0,0
+Salis Abdul Samed,MF,Lens,Ghana,250,2.8,0,0,0.0,0.0,0.0,0.01,0.01,0,0,2,4,1,1,8
+Keylor Navas,GK,Paris S-G,Costa Rica,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,0,0,2
+Yannick Carrasco,FW,Atlético Madrid,Belgium,116,1.3,0,0,0.0,0.0,0.3,0.0,0.22,1,0,4,1,2,0,4
+Asiri Haitham,FW,Al-Ahli,Saudi Arabia,2,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,2,0,1
+Dejan Lovren,DF,Zenit,Croatia,600,6.7,0,1,0.0,0.15,0.3,0.01,0.04,1,0,2,6,2,5,29
+Devis Epassy,GK,Abha,Cameroon,180,2.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,2
+Ferrán Torres,FW,Barcelona,Spain,217,2.4,2,0,0.83,0.0,1.0,0.07,0.42,0,0,0,0,1,0,0
+Gleison Bremer,DF,Juventus,Brazil,109,1.2,0,0,0.0,0.0,0.2,0.0,0.14,0,0,1,1,1,0,6
+Luis Suárez,FW,Nacional,Uruguay,146,1.6,0,1,0.0,0.62,0.4,0.04,0.26,1,0,0,0,0,0,2
+Marcelo Brozović,MF,Inter,Croatia,552,6.1,0,0,0.0,0.0,0.5,0.03,0.09,1,0,7,4,6,7,7
+Trent Alexander-Arnold,DF,Liverpool,England,34,0.4,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0
+Eric Dier,DF,Tottenham,England,36,0.4,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,0,0,0
+João Cancelo,DF,Manchester City,Portugal,310,3.4,0,0,0.0,0.0,0.0,0.0,0.01,0,0,3,2,0,1,8
+Morteza Pouraliganji,DF,Persepolis,IR Iran,270,3.0,0,0,0.0,0.0,0.1,0.07,0.03,1,0,2,6,2,3,10
+Álvaro Zamora,MF,Deportivo Saprissa,Costa Rica,30,0.3,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0
+Dylan Bronn,DF,Salernitana,Tunisia,162,1.8,0,0,0.0,0.0,0.1,0.0,0.04,0,0,2,0,1,1,0
+Jesper Lindstrøm,MF,Eint Frankfurt,Denmark,200,2.2,0,0,0.0,0.0,0.3,0.0,0.14,0,0,1,1,4,0,1
+Sergio Busquets,MF,Barcelona,Spain,363,4.0,0,0,0.0,0.0,0.1,0.02,0.04,1,0,4,1,2,0,1
+Cristiano Ronaldo,FW,Manchester Utd,Portugal,290,3.2,1,0,0.31,0.0,1.6,0.04,0.51,0,0,0,0,0,0,1
+Yuto Nagatomo,MF,FC Tokyo,Japan,209,2.3,0,0,0.0,0.0,0.0,0.05,0.0,0,0,2,0,2,0,3
+Boualem Khoukhi,DF,Al Sadd SC,Qatar,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,2,3,4,2,18
+Issam Jebali,FW,Odense,Tunisia,182,2.0,0,0,0.0,0.0,0.5,0.08,0.26,0,0,3,0,1,0,3
+Jordan Veretout,MF,Marseille,France,62,0.7,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,2
+Martin Braithwaite,FW,Espanyol,Denmark,103,1.1,0,0,0.0,0.0,0.1,0.12,0.06,0,0,0,0,0,0,0
+Nikola Milenković,DF,Fiorentina,Serbia,270,3.0,0,0,0.0,0.0,0.2,0.0,0.06,2,0,5,6,2,4,10
+Dušan Vlahović,FW,Juventus,Serbia,79,0.9,1,0,1.14,0.0,0.8,0.0,0.92,0,0,0,0,0,0,0
+Paik Seung-ho,MF,Jeonbuk,Korea Republic,26,0.3,1,0,3.46,0.0,0.0,0.0,0.15,0,0,2,0,0,0,0
+Jonathan Osorio,MF,Toronto FC,Canada,119,1.3,0,0,0.0,0.0,0.1,0.0,0.05,1,0,1,1,0,0,1
+Nasser Al-Dawsari,FW,Al-Hilal,Saudi Arabia,5,0.1,0,0,0.0,0.0,0.0,1.27,0.0,0,0,1,0,0,0,0
+Richie Laryea,DF,Toronto FC,Canada,160,1.8,0,0,0.0,0.0,0.1,0.3,0.04,0,0,1,0,1,1,3
+Abdulaziz Hatem,MF,Al Rayyan SC,Qatar,196,2.2,0,0,0.0,0.0,0.0,0.01,0.01,0,0,1,1,0,0,0
+Almoez Ali,FW,Al Duhail SC,Qatar,224,2.5,0,0,0.0,0.0,0.4,0.0,0.15,1,0,0,1,0,0,1
+Guillermo Varela,DF,Flamengo,Uruguay,183,2.0,0,0,0.0,0.0,0.0,0.05,0.0,0,0,2,3,1,0,1
+Ibrahima Konaté,DF,Liverpool,France,294,3.3,0,0,0.0,0.0,0.4,0.12,0.12,0,0,6,7,3,2,16
+Josh Sargent,FW,Norwich City,United States,157,1.7,0,0,0.0,0.0,0.4,0.04,0.21,0,0,0,1,1,0,0
+Mohammed Waad,MF,Al Sadd SC,Qatar,28,0.3,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,1,0,1
+Papu Gómez,MF,Sevilla,Argentina,107,1.2,0,0,0.0,0.0,0.0,0.0,0.03,0,0,0,1,1,0,0
+Stephen Eustáquio,MF,Porto,Canada,125,1.4,0,0,0.0,0.0,0.2,0.11,0.13,0,0,2,2,0,0,6
+Hugo Lloris,GK,Tottenham,France,570,6.3,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,3
+Joe Rodon,DF,Rennes,Wales,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,2,4,0,2,13
+Xavi Simons,FW,PSV Eindhoven,Netherlands,9,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Éder Militão,DF,Real Madrid,Brazil,347,3.9,0,0,0.0,0.0,0.2,0.01,0.05,1,0,6,3,1,0,5
+Abdou Diallo,DF,RB Leipzig,Senegal,331,3.7,0,0,0.0,0.0,0.0,0.02,0.01,0,0,2,1,0,1,10
+Alexis Vega,FW,Guadalajara,Mexico,193,2.1,0,0,0.0,0.0,0.8,0.06,0.39,0,0,0,1,1,0,2
+Ardon Jasari,FW,Luzern,Switzerland,2,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Johan Venegas,FW,Liga Deportiva Alajuelense,Costa Rica,73,0.8,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,2
+Mehdi Taremi,FW,Porto,IR Iran,270,3.0,2,1,0.67,0.33,1.3,0.22,0.45,0,0,3,2,4,1,3
+Nayef Aguerd,DF,West Ham,Morocco,353,3.9,0,0,0.0,0.0,0.2,0.01,0.04,0,0,2,4,1,2,12
+William Saliba,DF,Arsenal,France,28,0.3,0,0,0.0,0.0,0.0,0.11,0.0,0,0,0,0,1,0,0
+Yeltsin Tejeda,MF,Club Sport Herediano,Costa Rica,269,3.0,1,1,0.33,0.33,0.4,0.02,0.14,0,0,2,1,2,5,7
+Jeremy Sarmiento,MF,Brighton,Ecuador,85,0.9,0,0,0.0,0.0,0.1,0.09,0.07,0,0,1,1,0,0,0
+Josip Stanišić,DF,Bayern Munich,Croatia,90,1.0,0,0,0.0,0.0,0.0,0.0,0.02,0,0,3,1,0,0,0
+Kieffer Moore,FW,Bournemouth,Wales,225,2.5,0,0,0.0,0.0,1.0,0.1,0.41,0,0,0,2,2,1,7
+Loïs Openda,FW,Lens,Belgium,13,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0
+Marten de Roon,MF,Atalanta,Netherlands,184,2.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,5,2,4,0,6
+Baba Rahman,DF,Reading,Ghana,183,2.0,0,0,0.0,0.0,0.0,0.15,0.0,0,0,3,1,1,0,3
+Boulaye Dia,FW,Salernitana,Senegal,318,3.5,1,0,0.28,0.0,0.7,0.01,0.21,1,0,0,1,1,0,3
+Hernán Galíndez,GK,SD Aucas,Ecuador,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Joe Morrell,MF,Portsmouth,Wales,33,0.4,0,0,0.0,0.0,0.0,0.0,0.0,0,0,2,1,2,0,0
+Tajon Buchanan,MF,Club Brugge,Canada,260,2.9,0,1,0.0,0.35,0.9,0.17,0.33,1,0,1,3,3,0,0
+Tyler Adams,MF,Leeds United,United States,360,4.0,0,0,0.0,0.0,0.0,0.11,0.01,1,0,9,4,6,0,6
+Aïssa Laïdouni,MF,Ferencváros,Tunisia,243,2.7,0,1,0.0,0.37,0.1,0.16,0.05,1,0,3,4,6,1,6
+Filip Mladenović,DF,Legia Warsaw,Serbia,65,0.7,0,0,0.0,0.0,0.0,0.0,0.03,0,0,0,0,1,0,1
+Haji Wright,FW,Antalyaspor,United States,137,1.5,1,0,0.66,0.0,0.5,0.02,0.35,0,0,0,0,0,0,1
+Kalvin Phillips,MF,Manchester City,England,42,0.5,0,1,0.0,2.14,0.0,0.17,0.0,0,0,0,0,0,0,1
+Sami Al-Najei,MF,Al-Nassr,Saudi Arabia,45,0.5,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0
+Youssoufa Moukoko,FW,Dortmund,Germany,1,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Cristian Romero,DF,Tottenham,Argentina,547,6.1,0,0,0.0,0.0,0.0,0.0,0.0,2,0,3,4,2,4,26
+Ricardo Rodríguez,DF,Torino,Switzerland,359,4.0,0,0,0.0,0.0,0.0,0.04,0.0,0,0,2,0,1,0,8
+Richarlison,FW,Tottenham,Brazil,323,3.6,3,0,0.84,0.0,2.1,0.27,0.59,0,0,2,1,4,0,4
+Eric Maxim Choupo-Moting,FW,Bayern Munich,Cameroon,253,2.8,1,0,0.36,0.0,0.8,0.02,0.29,0,0,2,1,0,0,1
+Hassan Al-Haydos,MF,Al Sadd SC,Qatar,206,2.3,0,0,0.0,0.0,0.0,0.27,0.01,0,0,1,2,0,0,1
+Pedro,FW,Flamengo,Brazil,64,0.7,0,0,0.0,0.0,0.5,0.0,1.39,0,0,2,1,0,0,0
+Roberto Alvarado,FW,Guadalajara,Mexico,18,0.2,0,0,0.0,0.0,0.0,0.0,0.0,1,0,0,0,0,0,0
+Bruno Fernandes,FW,Manchester Utd,Portugal,356,4.0,2,3,0.51,0.76,1.1,0.42,0.28,1,0,3,2,6,1,4
+Hakim Ziyech,FW,Chelsea,Morocco,635,7.1,1,1,0.14,0.14,0.4,0.1,0.06,0,0,7,10,10,0,4
+Musab Kheder,DF,Al Sadd SC,Qatar,6,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,0,0,0
+Youssouf Fofana,MF,Monaco,France,227,2.5,0,0,0.0,0.0,0.2,0.07,0.07,0,0,5,3,5,1,0
+Mikkel Damsgaard,MF,Brentford,Denmark,150,1.7,0,0,0.0,0.0,0.0,0.2,0.0,0,0,2,2,2,0,1
+Nouhou Tolo,DF,Seattle,Cameroon,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,5,6,3,2,10
+Pape Gueye,MF,Marseille,Senegal,153,1.7,0,0,0.0,0.0,0.1,0.11,0.07,0,0,2,2,2,0,2
+Antony,FW,Manchester Utd,Brazil,172,1.9,0,0,0.0,0.0,0.2,0.08,0.15,0,0,0,1,3,0,1
+Danilo Pereira,DF,Paris S-G,Portugal,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,2,3,0,1,3
+Silvan Widmer,DF,Mainz 05,Switzerland,265,2.9,0,1,0.0,0.34,0.0,0.29,0.01,1,0,6,2,3,0,15
+Timothy Castagne,DF,Leicester City,Belgium,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,4,2,1,0,4
+Antonio Rüdiger,DF,Real Madrid,Germany,270,3.0,0,0,0.0,0.0,0.8,0.0,0.25,0,0,1,0,1,2,5
+DeAndre Yedlin,DF,Inter Miami,United States,33,0.4,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,0,0,2
+Matthias Ginter,DF,Freiburg,Germany,1,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Samuel Oum Gouet,MF,Mechelen,Cameroon,100,1.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,0,0,3
+Martinelli,FW,Arsenal,Brazil,113,1.3,0,0,0.0,0.0,0.5,0.14,0.42,0,0,1,0,2,0,1
+Andrés Guardado,MF,Betis,Mexico,41,0.5,0,0,0.0,0.0,0.0,0.0,0.0,0,0,2,0,0,0,1
+Brenden Aaronson,MF,Leeds United,United States,108,1.2,0,0,0.0,0.0,0.1,0.18,0.06,0,0,2,1,5,0,0
+Andreas Cornelius,FW,FC Copenhagen,Denmark,92,1.0,0,0,0.0,0.0,1.0,0.09,1.0,1,0,0,0,0,0,1
+Eduardo Camavinga,DF,Real Madrid,France,140,1.6,0,0,0.0,0.0,0.0,0.11,0.0,0,0,9,3,4,0,6
+Everton Ribeiro,MF,Flamengo,Brazil,36,0.4,0,0,0.0,0.0,0.0,0.21,0.0,0,0,0,0,0,0,0
+Otávio,MF,Porto,Portugal,196,2.2,0,0,0.0,0.0,0.1,0.17,0.05,0,0,7,1,0,0,1
+Junior Hoilett,FW,Reading,Canada,161,1.8,0,0,0.0,0.0,0.1,0.21,0.08,1,0,4,1,0,0,0
+Dušan Tadić,MF,Ajax,Serbia,257,2.9,0,2,0.0,0.7,0.1,0.25,0.03,0,0,2,1,3,1,0
+Fabian Frei,MF,Basel,Switzerland,25,0.3,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,1,0,0,0
+Juan Foyth,DF,Villarreal,Argentina,5,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Shūichi Gonda,GK,S-Pulse,Japan,390,4.3,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,1
+Vinicius Júnior,FW,Real Madrid,Brazil,299,3.3,1,2,0.3,0.6,1.0,0.2,0.3,0,0,1,0,4,1,0
+Karl Toko Ekambi,FW,Lyon,Cameroon,166,1.8,0,0,0.0,0.0,0.2,0.14,0.1,0,0,1,2,1,0,0
+Liam Millar,DF,Basel,Canada,10,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Meshaal Barsham,GK,Al Sadd SC,Qatar,180,2.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,1
+Niklas Süle,DF,Dortmund,Germany,269,3.0,0,0,0.0,0.0,0.1,0.0,0.04,0,0,4,0,0,1,7
+Lee Kangin,MF,Mallorca,Korea Republic,147,1.6,0,1,0.0,0.61,0.2,0.17,0.09,1,0,3,0,0,0,0
+Moisés Caicedo,MF,Brighton,Ecuador,269,3.0,1,0,0.33,0.0,0.5,0.0,0.17,1,0,5,2,4,0,2
+Theo Hernández,DF,Milan,France,508,5.6,1,2,0.18,0.35,0.4,0.22,0.07,1,0,13,4,3,2,8
+Mehdi Torabi,MF,Persepolis,IR Iran,62,0.7,0,0,0.0,0.0,0.1,0.82,0.18,0,0,0,2,1,0,0
+Milan Borjan,GK,Red Star,Canada,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,2
+Salman Al-Faraj,MF,Al-Hilal,Saudi Arabia,44,0.5,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,2,0,0
+Thibaut Courtois,GK,Real Madrid,Belgium,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Ángelo Preciado,DF,Genk,Ecuador,264,2.9,0,1,0.0,0.34,0.1,0.14,0.02,0,0,5,6,2,0,4
+Abdulellah Al-Malki,MF,Al-Hilal,Saudi Arabia,174,1.9,0,0,0.0,0.0,0.1,0.0,0.06,2,0,1,2,3,0,4
+Dani Olmo,FW,RB Leipzig,Spain,367,4.1,1,1,0.25,0.25,1.4,0.11,0.34,0,0,3,1,5,0,4
+Josip Šutalo,DF,Dinamo Zagreb,Croatia,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,1,5
+Noah Okafor,FW,RB Salzburg,Switzerland,45,0.5,0,0,0.0,0.0,0.0,0.09,0.05,0,0,0,0,1,0,0
+Virgil van Dijk,DF,Liverpool,Netherlands,480,5.3,0,0,0.0,0.0,0.2,0.03,0.04,0,0,1,4,1,7,21
+João Mário,FW,Benfica,Portugal,84,0.9,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,2,0,0
+Rúben Dias,DF,Manchester City,Portugal,360,4.0,0,0,0.0,0.0,0.0,0.0,0.01,1,0,4,3,2,0,9
+Ángel Di María,MF,Juventus,Argentina,288,3.2,1,1,0.31,0.31,0.8,0.2,0.27,0,0,1,1,3,0,0
+Bruno Petković,FW,Dinamo Zagreb,Croatia,234,2.6,1,0,0.38,0.0,0.1,0.15,0.05,1,0,4,0,1,2,0
+Kwon Chang-hoon,FW,Sangju Sangmu,Korea Republic,56,0.6,0,0,0.0,0.0,0.0,0.29,0.0,0,0,0,0,0,0,0
+Yann Sommer,GK,M'Gladbach,Switzerland,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Collins Fai,DF,Al-Ta'ee,Cameroon,270,3.0,0,0,0.0,0.0,0.0,0.01,0.01,2,0,2,4,2,0,7
+Hwang Ui-jo,FW,Olympiacos,Korea Republic,106,1.2,0,0,0.0,0.0,0.5,0.0,0.4,0,0,0,0,0,0,1
+Manuel Neuer,GK,Bayern Munich,Germany,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Roozbeh Cheshmi,DF,Esteghlal,IR Iran,58,0.6,1,0,1.55,0.0,0.1,0.0,0.08,0,0,0,2,0,1,3
+Kevin Álvarez,DF,Pachuca,Mexico,70,0.8,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,2,0,2
+Takuma Asano,FW,Bochum,Japan,165,1.8,1,0,0.55,0.0,0.7,0.17,0.44,0,0,0,1,0,0,1
+Thilo Kehrer,DF,West Ham,Germany,69,0.8,0,0,0.0,0.0,0.0,0.0,0.0,1,0,2,3,1,0,2
+Darwin Núñez,FW,Liverpool,Uruguay,240,2.7,0,0,0.0,0.0,0.4,0.09,0.14,1,0,2,0,2,0,2
+Kim Seung-gyu,GK,Al-Shabab,Korea Republic,360,4.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,2,0,0,2
+Niclas Füllkrug,FW,Werder Bremen,Germany,69,0.8,2,1,2.61,1.3,2.2,0.76,2.86,0,0,0,0,0,0,0
+Andre-Frank Zambo Anguissa,MF,Napoli,Cameroon,260,2.9,0,1,0.0,0.35,0.1,0.0,0.02,0,0,0,5,2,0,2
+Pedri,MF,Barcelona,Spain,356,4.0,0,0,0.0,0.0,0.0,0.22,0.0,0,0,2,4,5,0,3
+Piotr Zieliński,MF,Napoli,Poland,328,3.6,1,0,0.27,0.0,0.6,0.11,0.16,0,0,5,1,1,0,7
+Youstin Salas,DF,Deportivo Saprissa,Costa Rica,47,0.5,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,2,1,1
+Jordan Ayew,FW,Crystal Palace,Ghana,136,1.5,0,1,0.0,0.66,0.1,0.32,0.03,0,0,3,1,0,0,1
+Mathías Olivera,DF,Napoli,Uruguay,253,2.8,0,0,0.0,0.0,0.1,0.15,0.03,1,0,5,2,9,0,10
+Son Jun-ho,MF,Shandong Lunen,Korea Republic,72,0.8,0,0,0.0,0.0,0.0,0.0,0.0,0,0,3,3,2,1,0
+Anthony Contreras,FW,Club Sport Herediano,Costa Rica,125,1.4,0,0,0.0,0.0,0.0,0.01,0.0,1,0,2,1,0,0,0
+Fabinho,MF,Liverpool,Brazil,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,2,1,0,0,2
+Kieran Trippier,DF,Newcastle Utd,England,206,2.3,0,0,0.0,0.0,0.0,0.07,0.02,0,0,4,1,2,1,4
+Mason Mount,MF,Chelsea,England,186,2.1,0,0,0.0,0.0,0.2,0.02,0.1,0,0,2,0,2,0,0
+Mateo Kovačić,MF,Chelsea,Croatia,635,7.1,0,0,0.0,0.0,0.3,0.14,0.05,2,0,17,4,3,1,5
+Noussair Mazraoui,DF,Bayern Munich,Morocco,365,4.1,0,0,0.0,0.0,0.2,0.01,0.04,0,0,9,1,5,1,16
+Wataru Endo,MF,Stuttgart,Japan,304,3.4,0,0,0.0,0.0,0.2,0.15,0.06,1,0,4,3,5,3,6
+Ricardo Horta,FW,Braga,Portugal,119,1.3,1,0,0.76,0.0,0.8,0.05,0.58,0,0,1,1,0,1,0
+Steve Mandanda,GK,Rennes,France,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Youri Tielemans,MF,Leicester City,Belgium,95,1.1,0,0,0.0,0.0,0.0,0.07,0.0,0,0,1,2,3,1,0
+Azzedine Ounahi,MF,Angers,Morocco,568,6.3,0,0,0.0,0.0,0.3,0.08,0.05,1,0,8,7,4,1,2
+Cameron Carter-Vickers,DF,Celtic,United States,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0,4
+Henry Martín,FW,América,Mexico,146,1.6,1,0,0.62,0.0,0.9,0.13,0.57,0,0,1,2,2,0,1
+Nemanja Maksimović,MF,Getafe,Serbia,122,1.4,0,0,0.0,0.0,0.0,0.07,0.0,0,0,2,3,3,0,3
+Vincent Aboubakar,FW,Al-Nassr,Cameroon,142,1.6,2,1,1.27,0.63,0.6,0.39,0.37,2,1,0,0,0,0,4
+Yassine Meriah,DF,Espérance de Tunis,Tunisia,270,3.0,0,0,0.0,0.0,0.1,0.01,0.02,0,0,2,1,5,0,20
+Anass Zaroury,FW,Burnley,Morocco,27,0.3,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,2,0,0
+Martín Cáceres,DF,LA Galaxy,Uruguay,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,0,0,0,0,2
+Raphaël Guerreiro,DF,Dortmund,Portugal,279,3.1,1,2,0.32,0.65,0.4,0.19,0.12,0,0,2,3,3,0,2
+Youssouf Sabaly,DF,Betis,Senegal,360,4.0,0,0,0.0,0.0,0.0,0.16,0.01,0,0,6,4,1,0,9
+David Wotherspoon,MF,St Johnstone,Canada,15,0.2,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0
+Hiroki Sakai,MF,Urawa Reds,Japan,119,1.3,0,0,0.0,0.0,0.5,0.07,0.54,0,0,4,1,0,2,8
+Leandro Trossard,FW,Brighton,Belgium,103,1.1,0,0,0.0,0.0,0.0,0.08,0.0,0,0,1,0,1,0,0
+Abolfazl Jalali,DF,Esteghlal,IR Iran,19,0.2,0,0,0.0,0.0,0.0,0.0,0.0,1,0,0,0,0,0,1
+Cheikhou Kouyaté,MF,Nott'ham Forest,Senegal,72,0.8,0,0,0.0,0.0,0.0,0.05,0.0,0,0,0,2,1,1,4
+Nader Ghandri,DF,Club Africain,Tunisia,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,2,1,0,4,4
+Tarek Salman,DF,Al Sadd SC,Qatar,8,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0
+Alan Franco,MF,Talleres,Ecuador,46,0.5,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,2,0,0,1
+Ruben Vargas,FW,Augsburg,Switzerland,285,3.2,0,1,0.0,0.32,0.3,0.19,0.11,1,0,0,1,2,0,4
+Shogo Taniguchi,DF,Kawa Frontale,Japan,210,2.3,0,0,0.0,0.0,0.2,0.0,0.12,1,0,0,1,0,2,10
+Lukas Klostermann,DF,RB Leipzig,Germany,66,0.7,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,0,0,1
+Montassar Talbi,DF,Lorient,Tunisia,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,2,2,6,1,18
+Thiago Silva,DF,Chelsea,Brazil,390,4.3,0,1,0.0,0.23,0.2,0.23,0.04,0,0,1,5,2,1,6
+Harry Wilson,MF,Fulham,Wales,160,1.8,0,0,0.0,0.0,0.1,0.28,0.05,0,0,2,1,1,0,3
+Hidemasa Morita,MF,Sporting CP,Japan,285,3.2,0,0,0.0,0.0,0.2,0.03,0.05,0,0,0,3,7,2,4
+Kevin De Bruyne,FW,Manchester City,Belgium,270,3.0,0,0,0.0,0.0,0.2,0.3,0.08,0,0,1,0,2,0,3
+Uriel Antuna,FW,Cruz Azul,Mexico,77,0.9,0,0,0.0,0.0,0.2,0.02,0.18,0,0,3,0,1,0,0
+Wajdi Kechrida,DF,Atromitos,Tunisia,111,1.2,0,0,0.0,0.0,0.0,0.08,0.0,1,0,3,0,2,1,4
+Djibril Sow,MF,Eint Frankfurt,Switzerland,264,2.9,0,1,0.0,0.34,0.2,0.06,0.06,0,0,1,2,0,0,0
+Mohammed Muntari,FW,Al Duhail SC,Qatar,63,0.7,1,0,1.43,0.0,0.2,0.03,0.3,0,0,2,0,0,0,2
+Son Heung-min,FW,Tottenham,Korea Republic,360,4.0,0,1,0.0,0.25,0.4,0.24,0.11,0,0,2,2,2,0,0
+Aleksandar Mitrović,FW,Fulham,Serbia,262,2.9,2,0,0.69,0.0,1.6,0.24,0.57,1,0,0,0,1,0,1
+Gerson Torres,MF,Club Sport Herediano,Costa Rica,64,0.7,0,0,0.0,0.0,0.0,0.0,0.02,0,0,0,0,1,0,0
+Juan Pablo Vargas,DF,Millonarios,Costa Rica,90,1.0,1,0,1.0,0.0,0.5,0.0,0.46,0,0,3,2,0,0,10
+Kim Young-gwon,DF,Ulsan Hyundai,Korea Republic,350,3.9,1,0,0.26,0.0,0.8,0.05,0.19,1,0,2,3,1,2,11
+Andreas Christensen,DF,Barcelona,Denmark,270,3.0,1,0,0.33,0.0,0.4,0.0,0.12,1,0,2,4,2,5,9
+Axel Witsel,MF,Atlético Madrid,Belgium,270,3.0,0,0,0.0,0.0,0.0,0.02,0.01,0,0,2,4,4,1,6
+Bryan Oviedo,DF,Real Salt Lake,Costa Rica,260,2.9,0,0,0.0,0.0,0.0,0.0,0.0,0,0,5,3,2,1,7
+Facundo Pellistri,MF,Manchester Utd,Uruguay,181,2.0,0,0,0.0,0.0,0.2,0.09,0.08,0,0,1,0,1,0,2
+Gaël Ondoua,MF,Hannover 96,Cameroon,47,0.5,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,2,1,0,0
+José Cifuentes,MF,Los Angeles FC,Ecuador,59,0.7,0,0,0.0,0.0,0.0,0.0,0.03,0,0,2,0,1,0,1
+Daniel Kyereh,MF,Freiburg,Ghana,33,0.4,0,0,0.0,0.0,0.0,0.0,0.0,0,0,2,0,0,0,4
+Marcus Rashford,FW,Manchester Utd,England,140,1.6,3,0,1.93,0.0,1.6,0.0,1.03,0,0,0,1,2,0,1
+Karol Świderski,FW,Charlotte,Poland,45,0.5,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,2,0,0,0
+Bamba Dieng,FW,Marseille,Senegal,100,1.1,1,0,0.9,0.0,0.5,0.05,0.45,0,0,1,0,2,0,0
+Christian Eriksen,MF,Manchester Utd,Denmark,270,3.0,0,0,0.0,0.0,0.2,0.14,0.06,0,0,0,0,3,2,1
+Rubin Colwill,MF,Cardiff City,Wales,10,0.1,0,0,0.0,0.0,0.0,0.0,0.21,0,0,0,0,1,0,0
+Takumi Minamino,FW,Monaco,Japan,60,0.7,0,0,0.0,0.0,0.1,0.0,0.36,0,0,1,0,0,0,1
+Kenneth Taylor,MF,Ajax,Netherlands,5,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Marcus Thuram,FW,M'Gladbach,France,151,1.7,0,2,0.0,1.19,0.2,0.16,0.16,1,0,2,0,2,0,2
+Thorgan Hazard,FW,Dortmund,Belgium,106,1.2,0,0,0.0,0.0,0.0,1.07,0.0,0,0,2,0,4,0,0
+Ao Tanaka,MF,Düsseldorf,Japan,171,1.9,1,0,0.53,0.0,1.0,0.05,0.55,0,0,1,3,4,1,2
+Federico Valverde,MF,Real Madrid,Uruguay,270,3.0,0,0,0.0,0.0,0.2,0.14,0.06,0,0,4,5,6,0,1
+Pape Abou Cissé,DF,Olympiacos,Senegal,105,1.2,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,2,0,2,6
+Rúben Neves,MF,Wolves,Portugal,268,3.0,0,0,0.0,0.0,0.1,0.01,0.03,1,0,1,3,2,1,5
+Sardar Azmoun,FW,Leverkusen,IR Iran,126,1.4,0,0,0.0,0.0,0.9,0.05,0.67,0,0,0,0,0,0,1
+Thomas Delaney,MF,Sevilla,Denmark,44,0.5,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,0,0,1
+Denzel Dumfries,DF,Inter,Netherlands,479,5.3,1,2,0.19,0.38,0.4,0.06,0.08,2,1,5,7,4,1,6
+Edouard Mendy,GK,Chelsea,Senegal,360,4.0,0,0,0.0,0.0,0.0,0.01,0.0,0,0,0,0,1,0,3
+Jonas Hofmann,FW,M'Gladbach,Germany,30,0.3,0,0,0.0,0.0,0.3,0.16,0.82,0,0,0,0,2,0,0
+Miloš Veljković,DF,Werder Bremen,Serbia,221,2.5,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,0,2,7
+Simon Kjær,DF,Milan,Denmark,64,0.7,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,5,0,1,2
+Damian Szymański,MF,AEK Athens,Poland,29,0.3,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0
+Daniel Amartey,DF,Leicester City,Ghana,251,2.8,0,0,0.0,0.0,0.2,0.03,0.08,2,0,4,3,1,3,12
+Jewison Bennette,MF,Sunderland,Costa Rica,103,1.1,0,0,0.0,0.0,0.0,0.0,0.04,0,0,0,0,2,0,0
+Piero Hincapié,DF,Leverkusen,Ecuador,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,4,2,2,0,9
+Alireza Beiranvand,GK,Persepolis,IR Iran,109,1.2,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,2
+Strahinja Pavlović,DF,RB Salzburg,Serbia,235,2.6,1,0,0.38,0.0,0.2,0.0,0.07,2,0,2,1,5,1,7
+Ehsan Hajsafi,MF,AEK Athens,IR Iran,237,2.6,0,0,0.0,0.0,0.2,0.08,0.06,0,0,3,2,3,0,2
+Kaoru Mitoma,MF,Brighton,Japan,165,1.8,0,1,0.0,0.55,0.1,0.83,0.05,0,0,2,2,3,1,5
+Lee Jae-sung,MF,Mainz 05,Korea Republic,211,2.3,0,0,0.0,0.0,0.0,0.02,0.01,0,0,2,3,3,0,2
+Munir,GK,Al-Wehda,Morocco,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Sadegh Moharrami,DF,Dinamo Zagreb,IR Iran,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,1,1,0,3
+Agustín Canobbio,MF,Atl Paranaense,Uruguay,11,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,1,0,0
+Hwang Hee-chan,MF,Wolves,Korea Republic,115,1.3,1,0,0.78,0.0,0.9,0.03,0.72,1,0,1,0,0,0,0
+Saleh Al-Shehri,FW,Al-Hilal,Saudi Arabia,223,2.5,1,0,0.4,0.0,0.1,0.05,0.03,1,0,1,0,2,1,2
+Stefan Mitrović,DF,Getafe,Serbia,35,0.4,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Homam Ahmed,DF,Al-Gharafa Sports Club,Qatar,262,2.9,0,0,0.0,0.0,0.0,0.01,0.0,1,0,2,2,0,0,1
+Steven Berghuis,MF,Ajax,Netherlands,200,2.2,0,1,0.0,0.45,0.3,0.04,0.13,1,0,1,0,1,0,0
+Ali Al-Bulaihi,DF,Al-Hilal,Saudi Arabia,216,2.4,0,0,0.0,0.0,0.0,0.0,0.0,1,0,2,3,0,1,1
+Marko Livaja,FW,Hajduk Split,Croatia,241,2.7,1,1,0.37,0.37,0.8,0.03,0.31,0,0,2,1,1,0,1
+Wayne Hennessey,GK,Nott'ham Forest,Wales,175,1.9,0,0,0.0,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0
+Gio Reyna,FW,Dortmund,United States,53,0.6,0,0,0.0,0.0,0.1,0.28,0.1,0,0,0,0,1,0,0
+Jakub Kiwior,DF,Spezia,Poland,355,3.9,0,0,0.0,0.0,0.0,0.0,0.01,1,0,1,4,2,2,15
+Randal Kolo Muani,FW,Eint Frankfurt,France,182,2.0,1,0,0.49,0.0,1.1,0.0,0.65,0,0,5,1,1,0,1
+Georges-Kévin N'Koudou,FW,Beşiktaş,Cameroon,27,0.3,0,0,0.0,0.0,0.0,0.0,0.13,0,0,0,0,0,0,0
+Nuno Mendes,DF,Paris S-G,Portugal,41,0.5,0,0,0.0,0.0,0.0,0.04,0.0,0,0,0,2,1,0,0
+Rafael Leão,FW,Milan,Portugal,88,1.0,2,0,2.05,0.0,0.4,0.16,0.42,0,0,0,1,0,0,0
+Ilias Chair,MF,QPR,Morocco,45,0.5,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Mario Pašalić,FW,Atalanta,Croatia,271,3.0,0,0,0.0,0.0,0.3,0.07,0.1,0,0,5,3,4,2,3
+Teun Koopmeiners,MF,Atalanta,Netherlands,219,2.4,0,1,0.0,0.41,0.1,0.09,0.04,1,0,5,4,1,1,4
+Hong Chul,DF,Daegu,Korea Republic,45,0.5,0,0,0.0,0.0,0.0,0.13,0.0,0,0,0,1,1,1,1
+Mohammed Al-Owais,GK,Al-Hilal,Saudi Arabia,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,0,0,0,0,4
+Pierre Højbjerg,MF,Tottenham,Denmark,270,3.0,0,0,0.0,0.0,0.0,0.01,0.01,0,0,2,3,2,1,6
+Zakaria Aboukhlal,FW,Toulouse,Morocco,79,0.9,1,0,1.14,0.0,1.0,0.0,1.16,0,0,1,1,2,0,1
+Daichi Kamada,FW,Eint Frankfurt,Japan,322,3.6,0,0,0.0,0.0,0.6,0.01,0.18,0,0,3,0,3,0,3
+Abdelhamid Sabiri,MF,Sampdoria,Morocco,181,2.0,0,1,0.0,0.5,0.1,0.53,0.08,1,0,1,5,2,1,3
+Jules Koundé,DF,Barcelona,France,480,5.3,0,0,0.0,0.0,0.2,0.01,0.04,1,0,8,5,3,4,8
+Jurriën Timber,DF,Ajax,Netherlands,390,4.3,0,0,0.0,0.0,0.0,0.0,0.0,1,0,6,10,1,0,13
+Kim Jin-su,DF,Jeonbuk,Korea Republic,315,3.5,0,1,0.0,0.29,0.3,0.17,0.09,0,0,5,3,2,0,5
+Kim Moonhwan,DF,Jeonbuk,Korea Republic,360,4.0,0,0,0.0,0.0,0.0,0.15,0.0,0,0,4,4,2,1,16
+Cody Gakpo,FW,PSV Eindhoven,Netherlands,450,5.0,3,0,0.6,0.0,0.3,0.12,0.06,0,0,2,3,9,1,6
+Michel Aebischer,MF,Bologna,Switzerland,16,0.2,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Marquinhos,DF,Paris S-G,Brazil,426,4.7,0,0,0.0,0.0,0.2,0.17,0.04,1,0,4,2,5,1,6
+Milad Mohammadi,DF,AEK Athens,IR Iran,196,2.2,0,0,0.0,0.0,0.0,0.0,0.0,0,0,3,1,2,0,6
+Bryan Mbeumo,FW,Brentford,Cameroon,233,2.6,0,0,0.0,0.0,0.2,0.11,0.08,0,0,0,1,1,0,2
+Christian Bassogog,MF,Shanghai Shen,Cameroon,24,0.3,0,0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,0,0,0
+Leander Dendoncker,DF,Aston Villa,Belgium,161,1.8,0,0,0.0,0.0,0.1,0.2,0.05,1,0,3,0,1,3,5
+Guillermo Ochoa,GK,América,Mexico,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Kamaldeen Sulemana,FW,Rennes,Ghana,58,0.6,0,0,0.0,0.0,0.1,0.0,0.09,1,0,0,0,0,0,2
+Andries Noppert,GK,Heerenveen,Netherlands,480,5.3,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,4
+Aurélien Tchouaméni,MF,Real Madrid,France,621,6.9,1,0,0.14,0.0,0.3,0.16,0.05,1,0,4,14,2,1,6
+Fabian Schär,DF,Newcastle Utd,Switzerland,135,1.5,0,0,0.0,0.0,0.1,0.0,0.09,2,0,1,2,0,1,7
+Julián Álvarez,FW,Manchester City,Argentina,464,5.2,4,0,0.78,0.0,2.6,0.02,0.51,0,0,2,0,8,0,3
+Robert Skov,DF,Hoffenheim,Denmark,22,0.2,0,0,0.0,0.0,0.0,0.0,0.0,1,0,0,0,0,0,0
+Haris Seferović,FW,Galatasaray,Switzerland,71,0.8,0,0,0.0,0.0,0.2,0.03,0.24,0,0,0,0,0,2,0
+Hossein Kanaanizadegan,DF,Al Ahli SC,IR Iran,45,0.5,0,0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,0,1,2
+Eray Cömert,DF,Valencia,Switzerland,46,0.5,0,0,0.0,0.0,0.0,0.0,0.0,1,0,0,2,1,0,2
+Hirving Lozano,FW,Napoli,Mexico,252,2.8,0,0,0.0,0.0,0.2,0.36,0.07,0,0,2,0,4,0,1
+Hossein Hosseini,GK,Esteghlal,IR Iran,161,1.8,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Michał Skóraś,MF,Lech Poznań,Poland,45,0.5,0,0,0.0,0.0,0.0,0.0,0.04,0,0,0,1,1,0,0
+Nawaf Al Abed,MF,Al-Shabab,Saudi Arabia,88,1.0,0,0,0.0,0.0,0.1,0.06,0.13,1,0,0,1,0,0,0
+Sergio Rochet,GK,Nacional,Uruguay,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,1
+Giorgian De Arrascaeta,MF,Flamengo,Uruguay,108,1.2,2,0,1.67,0.0,1.2,0.45,1.01,0,0,1,2,1,0,1
+Jackson Irvine,MF,St. Pauli,Australia,354,3.9,0,0,0.0,0.0,0.5,0.01,0.13,2,0,2,3,7,0,8
+Nicolás Tagliafico,DF,Lyon,Argentina,373,4.1,0,0,0.0,0.0,1.0,0.05,0.26,0,0,7,9,8,1,9
+Sorba Thomas,MF,Huddersfield,Wales,1,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,0,0,0
+Denis Zakaria,MF,Chelsea,Switzerland,59,0.7,0,0,0.0,0.0,0.0,0.0,0.07,0,0,0,3,1,0,1
+Guido Rodríguez,MF,Betis,Argentina,56,0.6,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,1,1
+Kyle Walker,DF,Manchester City,England,236,2.6,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,3,2,0,3
+Filip Kostić,DF,Juventus,Serbia,179,2.0,0,0,0.0,0.0,0.0,0.02,0.01,0,0,3,0,3,0,1
+Marko Grujić,MF,Porto,Serbia,13,0.1,0,0,0.0,0.0,0.0,0.0,0.26,0,0,1,0,0,0,1
+André Onana,GK,Inter,Cameroon,80,0.9,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Hiroki Ito,DF,Stuttgart,Japan,45,0.5,0,0,0.0,0.0,0.0,0.09,0.0,0,0,0,0,0,0,0
+Roan Wilson,MF,Municipal Grecia,Costa Rica,1,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0,1
+Eden Hazard,MF,Real Madrid,Belgium,124,1.4,0,0,0.0,0.0,0.1,0.01,0.04,0,0,0,1,1,0,0
+Edson Álvarez,MF,Ajax,Mexico,175,1.9,0,0,0.0,0.0,0.0,0.11,0.01,1,0,2,4,1,0,2
+Steven Vitória,DF,Chaves,Canada,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,3,0,2,2,7
+Achraf Hakimi,DF,Paris S-G,Morocco,631,7.0,0,1,0.0,0.14,0.1,0.07,0.02,0,0,17,9,6,1,12
+Ali Maâloul,DF,Al Ahly SC,Tunisia,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,2,0,4
+Wout Weghorst,FW,Beşiktaş,Netherlands,64,0.7,2,0,2.81,0.0,0.2,0.08,0.52,1,0,0,0,0,1,1
+Ante Budimir,FW,Osasuna,Croatia,55,0.6,0,0,0.0,0.0,0.2,0.07,0.37,0,0,1,0,0,0,1
+Bailey Wright,DF,Sunderland,Australia,17,0.2,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,2
+Craig Goodwin,MF,Adelaide,Australia,234,2.6,1,1,0.38,0.38,0.3,0.25,0.11,0,0,3,0,3,0,3
+Anis Ben Slimane,MF,Brøndby,Tunisia,148,1.6,0,0,0.0,0.0,0.1,0.06,0.07,0,0,1,1,2,0,1
+Arkadiusz Milik,FW,Juventus,Poland,101,1.1,0,0,0.0,0.0,0.2,0.09,0.22,1,0,0,0,1,0,0
+José María Giménez,DF,Atlético Madrid,Uruguay,270,3.0,0,0,0.0,0.0,0.2,0.0,0.06,1,0,1,7,1,5,11
+Alexander Bah,DF,Benfica,Denmark,46,0.5,0,0,0.0,0.0,0.1,0.14,0.11,0,0,4,2,2,0,0
+Junya Ito,MF,Reims,Japan,324,3.6,0,1,0.0,0.28,0.2,0.07,0.05,0,0,4,5,3,1,6
+Kye Rowles,DF,Hearts,Australia,360,4.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,2,7,2,7,16
+Danilo,DF,Juventus,Brazil,281,3.1,0,0,0.0,0.0,0.0,0.0,0.01,1,0,2,3,1,1,5
+Diogo Dalot,DF,Manchester Utd,Portugal,258,2.9,0,2,0.0,0.7,0.0,0.25,0.01,0,0,6,2,5,2,1
+Dries Mertens,MF,Galatasaray,Belgium,76,0.8,0,0,0.0,0.0,0.8,0.17,0.94,0,0,0,0,0,0,0
+Gareth Bale,FW,Los Angeles FC,Wales,225,2.5,1,0,0.4,0.0,0.8,0.08,0.32,1,0,1,1,1,0,1
+Joel Campbell,FW,León,Costa Rica,269,3.0,0,0,0.0,0.0,0.0,0.02,0.0,1,0,5,0,3,0,4
+Luuk de Jong,FW,PSV Eindhoven,Netherlands,57,0.6,0,0,0.0,0.0,0.1,0.0,0.25,0,0,1,0,0,0,1
+Osman Bukari,MF,Red Star,Ghana,59,0.7,1,0,1.53,0.0,0.5,0.09,0.76,0,0,0,1,0,0,1
+Thomas Partey,MF,Arsenal,Ghana,270,3.0,0,0,0.0,0.0,0.2,0.02,0.07,0,0,5,0,6,2,8
+Filip Đuričić,MF,Sampdoria,Serbia,14,0.2,0,0,0.0,0.0,0.0,0.23,0.0,0,0,0,0,0,0,0
+Gabriel Jesus,FW,Arsenal,Brazil,93,1.0,0,0,0.0,0.0,0.4,0.23,0.35,0,0,1,2,0,0,0
+Sebastian Szymański,MF,Feyenoord,Poland,134,1.5,0,0,0.0,0.0,0.0,0.0,0.0,0,0,3,2,3,1,1
+Taha Yassine Khenissi,FW,Kuwait SC,Tunisia,29,0.3,0,0,0.0,0.0,0.0,0.45,0.06,1,0,0,0,0,0,0
+İlkay Gündoğan,MF,Manchester City,Germany,189,2.1,1,0,0.48,0.0,1.1,0.05,0.54,0,0,1,1,2,0,1
+Alexis Mac Allister,MF,Brighton,Argentina,550,6.1,1,1,0.16,0.16,0.7,0.18,0.12,0,0,4,3,12,1,6
+David Raum,DF,RB Leipzig,Germany,242,2.7,0,1,0.0,0.37,0.0,0.22,0.0,0,0,3,7,9,1,2
+Jamal Musiala,MF,Bayern Munich,Germany,258,2.9,0,1,0.0,0.35,1.9,0.3,0.67,0,0,1,1,2,1,0
+Ousmane Dembélé,FW,Barcelona,France,433,4.8,0,2,0.0,0.42,0.5,0.34,0.1,1,0,6,3,2,0,0
+Yasser Al-Shahrani,DF,Al-Hilal,Saudi Arabia,89,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,6,0,0,6
+Daizen Maeda,FW,Celtic,Japan,180,2.0,1,0,0.5,0.0,0.5,0.0,0.24,0,0,2,3,4,0,0
+Exequiel Palacios,MF,Leverkusen,Argentina,50,0.6,0,0,0.0,0.0,0.1,0.12,0.12,0,0,0,2,0,0,1
+Francisco Calvo,DF,Konyaspor,Costa Rica,180,2.0,0,0,0.0,0.0,0.0,0.0,0.01,2,0,4,2,2,1,2
+Joachim Andersen,DF,Crystal Palace,Denmark,270,3.0,0,1,0.0,0.33,0.1,0.08,0.03,0,0,2,0,1,1,12
+Nahuel Molina,DF,Atlético Madrid,Argentina,567,6.3,1,1,0.16,0.16,0.5,0.05,0.07,0,0,4,3,6,1,11
+Renato Steffen,FW,Lugano,Switzerland,32,0.4,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0
+Ángel Correa,MF,Atlético Madrid,Argentina,5,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,0,0,1
+Mohamed Dräger,DF,Luzern,Tunisia,132,1.5,0,0,0.0,0.0,0.2,0.01,0.14,0,0,3,1,0,0,4
+Olivier Ntcham,MF,Swansea City,Cameroon,25,0.3,0,0,0.0,0.0,0.0,0.09,0.16,0,0,0,0,0,0,1
+Germán Pezzella,DF,Betis,Argentina,60,0.7,0,0,0.0,0.0,0.1,0.0,0.24,1,0,0,0,0,0,0
+Majid Hosseini,DF,Kayserispor,IR Iran,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,4,6,1,2,11
+Orbelín Pineda,MF,AEK Athens,Mexico,76,0.8,0,0,0.0,0.0,0.3,0.07,0.38,0,0,3,0,2,0,0
+Ali Assadalla,MF,Al Sadd SC,Qatar,27,0.3,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0
+Callum Wilson,FW,Newcastle Utd,England,48,0.5,0,1,0.0,1.87,0.0,1.7,0.0,0,0,0,0,0,0,0
+Nathaniel Atkinson,DF,Hearts,Australia,84,0.9,0,0,0.0,0.0,0.0,0.0,0.0,0,0,3,1,0,1,2
+Victor Nelsson,DF,Galatasaray,Denmark,90,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,2,1,1,1
+Raheem Sterling,FW,Chelsea,England,149,1.7,1,1,0.6,0.6,0.4,0.09,0.22,0,0,1,1,1,0,0
+Antoine Griezmann,MF,Atlético Madrid,France,537,6.0,0,3,0.0,0.5,0.7,0.52,0.11,1,0,8,8,5,3,7
+Firas Al-Buraikan,MF,Al-Fateh,Saudi Arabia,268,3.0,0,1,0.0,0.34,0.1,0.02,0.04,0,0,3,2,3,2,4
+Lionel Messi,FW,Paris S-G,Argentina,690,7.7,7,3,0.91,0.39,6.6,0.36,0.94,1,0,3,0,2,0,0
+Nico Williams,FW,Athletic Club,Spain,146,1.6,0,0,0.0,0.0,0.1,0.0,0.07,0,0,2,0,2,0,0
+Paulo Dybala,FW,Roma,Argentina,18,0.2,0,0,0.0,0.0,0.0,1.03,0.0,0,0,1,0,0,0,1
+Fabian Rieder,FW,Young Boys,Switzerland,68,0.8,0,0,0.0,0.0,0.0,0.25,0.0,1,0,2,0,2,0,1
+Famara Diedhiou,FW,Alanyaspor,Senegal,92,1.0,1,0,0.98,0.0,0.2,0.03,0.19,0,0,0,0,0,0,2
+Jude Bellingham,MF,Dortmund,England,414,4.6,1,1,0.22,0.22,0.6,0.07,0.12,0,0,15,5,10,0,0
+Kamil Glik,DF,Benevento,Poland,360,4.0,0,0,0.0,0.0,0.2,0.0,0.06,0,0,1,3,1,1,23
+Alistair Johnston,DF,CF Montréal,Canada,270,3.0,0,0,0.0,0.0,0.8,0.06,0.27,1,0,3,2,5,1,4
+Fodé Ballo-Touré,DF,Milan,Senegal,7,0.1,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0
+Joakim Mæhle,DF,Atalanta,Denmark,249,2.8,0,0,0.0,0.0,0.0,0.01,0.01,0,0,5,2,4,3,6
+Youssef Msakni,MF,Al-Arabi SC,Tunisia,169,1.9,0,0,0.0,0.0,0.5,0.34,0.29,0,0,1,0,1,1,1
+Jack Grealish,FW,Manchester City,England,86,1.0,1,0,1.05,0.0,0.6,0.12,0.69,0,0,1,3,2,0,1
+Kasper Schmeichel,GK,Nice,Denmark,270,3.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Kudus Mohammed,FW,Ajax,Ghana,247,2.7,2,0,0.73,0.0,0.8,0.0,0.3,1,0,4,1,4,0,0
+Nico Elvedi,DF,M'Gladbach,Switzerland,180,2.0,0,0,0.0,0.0,0.1,0.0,0.04,1,0,0,1,2,3,13
+André Silva,FW,RB Leipzig,Portugal,26,0.3,0,0,0.0,0.0,0.0,0.21,0.0,0,0,0,0,0,0,0
+Bryan Ruiz,MF,Liga Deportiva Alajuelense,Costa Rica,30,0.3,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,0,0,1,0
+Gonzalo Plata,MF,Valladolid,Ecuador,269,3.0,0,0,0.0,0.0,0.1,0.06,0.05,0,0,2,2,3,0,0
+Noa Lang,MF,Club Brugge,Netherlands,8,0.1,0,0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,0,1,1
+Ismail Mohamad,FW,Al Duhail SC,Qatar,174,1.9,0,1,0.0,0.52,0.0,0.0,0.0,1,0,2,2,0,0,0
+Kevin Rodríguez,FW,N/A,Ecuador,2,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Yahya Jabrane,MF,Wydad Casablanca,Morocco,15,0.2,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+Pablo Sarabia,FW,Paris S-G,Spain,3,0.0,0,0,0.0,0.0,0.1,0.0,0.0,0,0,0,0,0,0,0
