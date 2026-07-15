@@ -1,6 +1,8 @@
 # FIFA World Cup 2022 — Player Performance Analysis
 
-**Author:** Ohanzee Karneh**Tools:** PySpark (data cleaning & transformation) | Power BI (visualization & dashboarding)**Data Source:** https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-player-data/code
+**Author:** Ohanzee Karneh
+**Tools:** PySpark (data cleaning & transformation) | Power BI (visualization & dashboarding)
+**Data Source:** https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-player-data/code
 ---
 
 ## Project Overview
